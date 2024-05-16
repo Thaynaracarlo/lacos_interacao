@@ -11,7 +11,7 @@ Laços e interações foi criado durante as aulas de programação web I, temos 
 
 # imagem site
 
-<img src="site imagem.png" width="50%"> <br>
+<img src="site imagem.png" width="30%"> <br>
 
 
 # laço for como funciona?
@@ -27,7 +27,7 @@ O laço for é uma estrutura de controle de fluxo em programação, usada para r
 *GitHub
 
 # Sites Utilizados
-* Github
+* https://www.homehost.com.br/blog/javascript/for-javascript/#:~:text=resolver%20problemas%20espec%C3%ADficos.-,Exemplo:,preciso%20do%20n%C3%BAmero%20de%20itera%C3%A7%C3%B5es.
 
 
 
