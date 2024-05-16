@@ -27,7 +27,7 @@ O laço for é uma estrutura de controle de fluxo em programação, usada para r
 *GitHub
 
 # Sites Utilizados
-* https://www.homehost.com.br/blog/javascript/for-javascript/#:~:text=resolver%20problemas%20espec%C3%ADficos.-,Exemplo:,preciso%20do%20n%C3%BAmero%20de%20itera%C3%A7%C3%B5es.
+* [Laço](https://www.homehost.com.br/blog/javascript/for-javascript/#:~:text=resolver%20problemas%20espec%C3%ADficos.-,Exemplo:,preciso%20do%20n%C3%BAmero%20de%20itera%C3%A7%C3%B5es.)
 
 
 
